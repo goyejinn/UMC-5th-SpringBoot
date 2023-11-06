@@ -1,2 +1,2 @@
-# UMC-5th-sping-chap07
-UMC 스프링부트 chap07 미션
+# UMC-5th-SpringBoot 실습
+UMC 스프링부트 실습
